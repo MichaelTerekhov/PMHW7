@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvbLQTqAutxk3sA9H+MvIgMIbqKZanpQoT7j5HAN0kFNDico4YjE8aehqtDWwPUIFe1RQBWJHNP3L/cfyoXj7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\source\\pm-academy-demo\\dotNet\\HomeWorks\\HomeWork7\\RequestProcessor\\RequestProcessor.App\\RequestProcessor.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

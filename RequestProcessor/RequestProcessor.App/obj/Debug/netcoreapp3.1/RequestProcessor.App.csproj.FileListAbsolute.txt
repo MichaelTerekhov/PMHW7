@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\options.json
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\RequestProcessor.App.exe
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\RequestProcessor.App.deps.json
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\RequestProcessor.App.runtimeconfig.json
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\RequestProcessor.App.runtimeconfig.dev.json
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\RequestProcessor.App.dll
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\RequestProcessor.App.pdb
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.csprojAssemblyReference.cache
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.AssemblyInfo.cs
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.dll
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.pdb
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.genruntimeconfig.cache
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Михаил\source\pm-academy-demo\dotNet\HomeWorks\HomeWork7\RequestProcessor\RequestProcessor.App\obj\Debug\netcoreapp3.1\RequestProcessor.App.csproj.CopyComplete
